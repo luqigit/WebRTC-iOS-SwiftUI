@@ -1,0 +1,7 @@
+platform :ios, '9.0'
+use_frameworks!
+
+target 'WebRTC-Demo' do
+  pod 'GoogleWebRTC'
+  pod 'SocketRocket'
+end
